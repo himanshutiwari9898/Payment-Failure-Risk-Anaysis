@@ -1,0 +1,5 @@
+payment_method,total_txns,failed_txns,failure_rate_pct,failed_amount
+UPI,22556,6135,27.20,26963143.43
+CARD,14871,2420,16.27,11107186.84
+WALLET,7524,1308,17.38,6057006.8
+NETBANKING,5049,866,17.15,4086395.71

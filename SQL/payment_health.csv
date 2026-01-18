@@ -1,0 +1,2 @@
+total_txns,success_txns,failed_txns,failure_rate_pct
+50000,39271,10729,21.46

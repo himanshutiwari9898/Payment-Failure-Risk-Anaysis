@@ -1,0 +1,4 @@
+retry_attempt,total_attempts,success_attempts,success_rate_pct
+0,32377,24470,75.58
+1,12621,10607,84.04
+2,5002,4194,83.85
